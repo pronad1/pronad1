@@ -1,7 +1,12 @@
 # Prosenjit_Mondol
 <h1 align="center">PROSENJIT MONDOL</h1>
 
-<p align="center"> <img class="center" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/> </p>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
+
+<!-- Git Header SVG -->
+<p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
+
+
 
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
