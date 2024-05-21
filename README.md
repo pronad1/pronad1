@@ -29,11 +29,13 @@
               target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"
                 alt="Linux Community" title="Linux Community"></a><br>
           </td>
-          <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="email" title="Email"></a><br>
+          <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img 
+                src="https://img.icons8.com/fluency/48/000000/mail.png" 
+                alt="email" title="Email"></a><br>
           </td>
-          <td><a href="https://facebook.com/m.sharafat.karim" title="Facebook" target="_blank"><img
-                src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
-                alt="facebook" title="Facebook"></a><br>
+          <td><a href="https://www.facebook.com/profile.php?id=100053139540646" target="blank"><img 
+               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+               alt="https://www.facebook.com/profile.php?id=100053139540646" height="30" width="40" /></a><br>
           </td>
           <td><a href="https://m.me/m.sharafat.karim" title="Messenger" target="_blank"><img
                 src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/48/000000/external-messenger-social-media-prettycons-lineal-color-prettycons.png"
