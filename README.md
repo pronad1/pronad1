@@ -1,22 +1,5 @@
 # Prosenjit_Mondol
 <h1 align="center">PROSENJIT MONDOL</h1>
-<h1 align="center">
-    <span style="color: red;">P</span>
-    <span style="color: orange;">R</span>
-    <span style="color: yellow;">O</span>
-    <span style="color: green;">S</span>
-    <span style="color: blue;">E</span>
-    <span style="color: indigo;">N</span>
-    <span style="color: violet;">J</span>
-    <span style="color: brown;">I</span>
-    <span style="color: black;">T</span>
-    <span style="color: gray;">&nbsp;M</span>
-    <span style="color: pink;">O</span>
-    <span style="color: purple;">N</span>
-    <span style="color: teal;">D</span>
-    <span style="color: maroon;">O</span>
-    <span style="color: navy;">L</span>
-</h1>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
