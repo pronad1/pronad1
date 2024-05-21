@@ -17,6 +17,43 @@
 - 📫 How to reach me **prosenjit1156@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<table align="center">
+      <tbody>
+        <tr>
+          <td style="text-align: center;"><a href="https://github.com/Prosenjit-Mondol" title="GitHub Profile"
+              target="_blank"><img src="https://img.icons8.com/color/48/null/github--v1.png"
+                alt="github" title="GitHub"></a><br>
+          </td>
+          <td style="text-align: center;"><a href="https://t.me/LinuxBangladesh" title="Linux Community (telegram)"
+              target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"
+                alt="Linux Community" title="Linux Community"></a><br>
+          </td>
+          <td><a href="mailto:sharafat2004@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png"
+                alt="email" title="Email"></a><br>
+          </td>
+          <td><a href="https://facebook.com/m.sharafat.karim" title="Facebook" target="_blank"><img
+                src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
+                alt="facebook" title="Facebook"></a><br>
+          </td>
+          <td><a href="https://m.me/m.sharafat.karim" title="Messenger" target="_blank"><img
+                src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/48/000000/external-messenger-social-media-prettycons-lineal-color-prettycons.png"
+                alt="messenger" title="Messenger"></a><br>
+          </td>
+          <td><a href="https://github.com/SharafatKarim" title="GitHub Profile"
+              target="_blank"><img src="https://img.icons8.com/color/48/null/github--v1.png"
+                alt="github" title="GitHub"></a><br>
+          </td>
+          <td style="text-align: center;"><a href="https://twitter.com/sharafat2004"
+              title="Twitter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"
+                alt="twitter" title="Twitter"></a><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+---
+
 <p align="left">
  <a href="https://github.com/Prosenjit-Mondol" title="GitHub Profile"
               target="_blank"><img src="https://img.icons8.com/color/48/null/github--v1.png"
