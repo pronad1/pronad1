@@ -45,9 +45,9 @@
                   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
                   alt="https://www.linkedin.com/in/prosenjit-mondol-615342266/" height="30" width="40" /></a><br>
           </td>
-          <td style="text-align: center;"><a href="https://twitter.com/sharafat2004"
-              title="Twitter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"
-                alt="twitter" title="Twitter"></a><br>
+          <td style="text-align: center;"><a href="https://codeforces.com/profile/prosenjit_mondol" target="blank"><img 
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
+              alt="https://codeforces.com/profile/prosenjit_mondol" height="30" width="40" /></a><br>
           </td>
         </tr>
       </tbody>
