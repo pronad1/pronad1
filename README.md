@@ -29,8 +29,7 @@
               target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"
                 alt="Linux Community" title="Linux Community"></a><br>
           </td>
-          <td><a href="mailto:sharafat2004@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png"
-                alt="email" title="Email"></a><br>
+          <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="email" title="Email"></a><br>
           </td>
           <td><a href="https://facebook.com/m.sharafat.karim" title="Facebook" target="_blank"><img
                 src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
@@ -62,7 +61,7 @@
 <a href="https://www.linkedin.com/in/prosenjit-mondol-615342266//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prosenjit-mondol-615342266/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100053139540646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100053139540646" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prosenjit_mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prosenjit_mondol" height="30" width="40" /></a>
- <a href="mailto:prosenjit1156@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="email" title="Email"></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
