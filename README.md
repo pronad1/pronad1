@@ -18,6 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://t.me/prosenjit_mondol" title="Telegram" target="_blank"><img src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="telegram" title="Telegram"></a>
 <a href="https://www.linkedin.com/in/prosenjit-mondol-615342266//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prosenjit-mondol-615342266/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100053139540646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100053139540646" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/prosenjit_mondol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/prosenjit_mondol" height="30" width="40" /></a>
