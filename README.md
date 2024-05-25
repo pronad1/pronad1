@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Prosenjit-Mondol" alt="Prosenjit-Mondol" /></a> </p>
 
-- 🔭 I’m currently working on **Apps Development**
+- 🔭 I’m currently working on **Own Project**
 
 - 🌱 I’m currently learning **Data structures and algorithms (DSA)**
 
