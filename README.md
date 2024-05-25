@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Own Project**
 
-- 🌱 I’m currently learning **Data structures and algorithms (DSA)**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 📫 How to reach me **prosenjit1156@gmail.com**
 
