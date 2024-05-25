@@ -59,6 +59,7 @@
 ---
 ## Languages I Speak
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 <h3 align="left">Languages and Tools:</h3>
