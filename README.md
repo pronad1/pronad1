@@ -71,7 +71,7 @@
 ---
 <div>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prosenjit-Mondol&show_icons=true&locale=en&layout=compact" alt="Prosenjit-Mondol" />
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prosenjit-Mondol&theme=default&utcOffset=8)
+  (http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prosenjit-Mondol&theme=default&utcOffset=8)
 
 </div>
 
