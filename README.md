@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms (DSA)**
 
--  Improving **Spoken English**
+- 🗣 Improving **Spoken English**
 
 
 ## Number of Profile Visitors
