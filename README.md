@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Own Project**
 
-- 🌱 I’m currently learning **Data structures and algorithms (DSA)**
+- 🌱 I’m currently learning **Open Systems Interconnection(OSI) Model**
 
 - 🗣 Improving **Spoken English**
 
