@@ -43,7 +43,7 @@
                  src="https://img.icons8.com/fluency/48/null/telegram-app.png" 
                  alt="telegram" title="Telegram"></a></a><br>
           </td>
-          <td><a href="https://www.linkedin.com/in/prosenjit-mondol-615342266//" target="blank"><img 
+          <td><a href="https://www.linkedin.com/in/prosenjit-mondol-615342266/" target="blank"><img 
                   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
                   alt="https://www.linkedin.com/in/prosenjit-mondol-615342266/" height="30" width="40" /></a><br>
           </td>
