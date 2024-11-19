@@ -1,4 +1,15 @@
-## Introduction
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="55%">
+      <h2 align="center"><a href="https://github.com/Prosenjit-Mondol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Prosenjit's+Github+Profile" alt="Typing SVG" /></a></h2>
+
+    </td>
+    <td>
+             <img  src="analyst.gif" alt="Analyst">
+        </td>
+  </tr>
+</table>
+#
 <p align="center"><a href="https://github.com/Prosenjit-Mondol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Prosenjit's+Github+Profile" alt="Typing SVG" /></a></p>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
