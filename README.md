@@ -76,4 +76,5 @@
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prosenjit-Mondol&theme=default&utcOffset=6" />
 
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prosenjit-Mondol&theme=default)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prosenjit-Mondol&theme=default)
+
