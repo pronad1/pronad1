@@ -1,5 +1,8 @@
 <p align="center"><a href="https://github.com/Prosenjit-Mondol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Prosenjit's+Github+Profile" alt="Typing SVG" /></a></p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
 
 
