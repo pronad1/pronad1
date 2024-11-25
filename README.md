@@ -7,20 +7,19 @@
 
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Prosenjit-Mondol&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 - 🔭 I’m currently working on **Own Project**
 
 - 🌱 I’m currently learning **Open Systems Interconnection(OSI) Model**
 
 - 🗣 Improving **Spoken English**
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ## Number of Profile Visitors
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol&label=Profile%20views&color=0e75b6&style=flat" alt="Prosenjit-Mondol" /> </p>
 
