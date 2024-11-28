@@ -13,9 +13,9 @@
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-- ❤️ I like open-source projects
-- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
-- 🔥 Feel free to text me
+- ❤️ I like open-source projects<br>
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).<br>
+- 🔥 Feel free to text me<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
