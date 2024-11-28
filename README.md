@@ -13,11 +13,9 @@
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-- 🔭 I’m currently working on **Own Project**
-
-- 🌱 I’m currently learning **Open Systems Interconnection(OSI) Model**
-
-- 🗣 Improving **Spoken English**
+- ❤️ I like open-source projects
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
+- 🔥 Feel free to text me
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
