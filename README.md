@@ -16,7 +16,7 @@
 <b>
   
   - 🩷 I like open-source projects
-  - 🌱 Interested about resume? [Click here]
+  - 🌱 Interested about resume? [Click here](https://github.com/Prosenjit-Mondol/RESUME/blob/main/CV-word.pdf).
   - 🔥 Feel free to text me
     
 </b>
