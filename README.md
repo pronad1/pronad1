@@ -13,10 +13,12 @@
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-- ❤️ I like open-source projects<br>
-- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).<br>
-- 🔥 Feel free to text me<br>
+<b>
+- ❤️ I like open-source projects
+- 🌱 Interested about resume? [Click here](https://resume.github.io/?SharafatKarim).
+- 🔥 Feel free to text me
 
+</b>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## Number of Profile Visitors:
