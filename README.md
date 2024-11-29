@@ -14,6 +14,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <b>
+  
   - 🩷 I like open-source projects
   - 🌱 Interested about resume? [Click here](https://github.com/Prosenjit-Mondol/RESUME/blob/main/CV-word.pdf).
   - 🗨️ Feel free to text me
