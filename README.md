@@ -13,6 +13,12 @@
 </a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## Number of Profile Visitors:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol&label=Profile%20views&color=0e75b6&style=flat" alt="Prosenjit-Mondol" /> </p>
+
+
 <b>
   
   - 🩷 I like open-source projects
@@ -22,11 +28,6 @@
 </b>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-## Number of Profile Visitors:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol&label=Profile%20views&color=0e75b6&style=flat" alt="Prosenjit-Mondol" /> </p>
-
 
 ## Connect with me:
 
