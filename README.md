@@ -1,6 +1,6 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="80%">
+    <td width="60%">
 <p align="center"><a href="https://github.com/Prosenjit-Mondol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Prosenjit's+Github+Profile" alt="Typing SVG" /></a></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
