@@ -3,8 +3,8 @@
     <td width="60%">
     <h1 align="center" style="margin-top: 0;margin-bottom: 0px">
     <a herf="https://github.com/Prosenjit-Mondol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Prosenjit's+Github+Profile" alt="Typing SVG" /></a></h1>
-      <h1>[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)</h1>
-        
+      <br>
+      [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
   </td>
     <td>
              <img  src="analyst.gif" alt="Analyst">
