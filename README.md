@@ -27,6 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol&label=Profile%20views&color=0e75b6&style=flat" alt="Prosenjit-Mondol" /> </p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <b>
   
@@ -70,8 +71,7 @@
         </tr>
       </tbody>
     </table>
-    
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
 
 ## Languages I Speaks
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
