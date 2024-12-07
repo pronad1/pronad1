@@ -16,15 +16,6 @@
   </tr>
 </table>
 
-
-
-<p align="center"><a href="https://github.com/Prosenjit-Mondol"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=500&color=3498DB&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Welcome+to+;Prosenjit's+Github+Profile" alt="Typing SVG" /></a></p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
@@ -102,7 +93,5 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prosenjit-Mondol&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prosenjit-Mondol&theme=default&utcOffset=6)
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=Prosenjit-Mondol&show_icons=true&locale=en&layout=compact)
-  
-  <img align="left" src="" alt="Prosenjit-Mondol" />
 
 </h1>
