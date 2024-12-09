@@ -18,10 +18,6 @@
 
 
 
-## Number of Profile Visitors:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol&label=Profile%20views&color=0e75b6&style=flat" alt="Prosenjit-Mondol" /> </p>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <b>
@@ -88,8 +84,4 @@
   
   <a href="https://github.com/bhyeanhasan/"><img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol" alt="visitors" /></a>
   
-## Number of Profile Visitors:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prosenjit-Mondol&label=Profile%20views&color=0e75b6&style=flat" alt="Prosenjit-Mondol" /> </p>
-
 </h1>
