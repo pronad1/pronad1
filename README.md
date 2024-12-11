@@ -35,9 +35,9 @@
 <table align="center">
       <tbody>
         <tr>
-          <td style="text-align: center;"><a href="[https://github.com/Prosenjit-Mondol](https://web.whatsapp.com/)" title="GitHub Profile"
-              target="_blank"><img src="https://img.icons8.com/color/48/null/github--v1.png"
-                alt="github" title="GitHub"></a><br>
+          <td style="text-align: center;"><a href="[https://web.whatsapp.com/]" title="whatsapp"
+              target="_blank"><img src=""
+                alt="whatsapp" title="whatsapp"></a><br>
           </td>
           <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img 
                 src="https://img.icons8.com/fluency/48/000000/mail.png" 
