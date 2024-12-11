@@ -35,10 +35,6 @@
 <table align="center">
       <tbody>
         <tr>
-          <td style="text-align: center;"><a href="[https://web.whatsapp.com/]" title="whatsapp"
-              target="_blank"><img src=""
-                alt="whatsapp" title="whatsapp"></a><br>
-          </td>
           <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img 
                 src="https://img.icons8.com/fluency/48/000000/mail.png" 
                 alt="email" title="Email"></a><br>
