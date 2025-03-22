@@ -66,6 +66,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pronad1&theme=default&utcOffset=6)
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pronad1&theme=react-dark">
   
   <a href="https://github.com/pronad1/"><img src="https://komarev.com/ghpvc/?username=provomito" alt="visitors" /></a>
   
