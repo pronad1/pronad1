@@ -35,7 +35,7 @@
 <table align="center">
       <tbody>
         <tr>
-          <td><a href="mailto:prosenjit1156@gmail.com" title="Email"><img 
+          <td><a href="prosenjit1156@gmail.com" title="Email"><img 
                 src="https://img.icons8.com/fluency/48/000000/mail.png" 
                 alt="email" title="Email"></a><br>
           </td>
