@@ -23,7 +23,7 @@
 <b>
   
   - 🩷 I like open-source projects
-  - 🌱 Interested to know more about me? [Click here](https://github.com/pronad1/CV/blob/main/CV-WORD.pdf).
+  - 🌱 Interested to know more about me? [Click here](https://pronad1.github.io/Personal-Portfolio/).
   - 🗨️ Feel free to text me
     
 </b>
