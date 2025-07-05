@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="50%">
 ## Connect with me:
 <table align="center">
       <tbody>
