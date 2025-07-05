@@ -6,8 +6,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=P+R+O+S+E+N+J+I+T;A+student+at+PSTU;studying+BSc.+in+CSE+)](https://git.io/typing-svg)
-
-
   </td>
     <td>
              <img  src="analyst.gif" alt="Analyst">
