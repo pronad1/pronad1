@@ -16,7 +16,7 @@
   - 🌱 Interested to know more about me? [Click here](https://pronad1.github.io/Personal-Portfolio/).
   - 🗨️ Feel free to text me
 </b>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 ## Connect with me:
 <table align="center">
       <tbody>
