@@ -39,8 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,cs,cpp,java,flutter,dart,npm,react,css,html,js,mysql,microsoftsqlserver
-,nodejs,nextjs,postman,py,ts,vite,tailwind,firebase,yarn,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,cs,cpp,java,flutter,dart,npm,react,css,html,js,mysql,microsoftsqlserver,nodejs,nextjs,postman,py,ts,vite,tailwind,firebase,yarn,mongodb&perline=8" />
   </a>
 </p>
 
