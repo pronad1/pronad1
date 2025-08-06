@@ -19,6 +19,8 @@ INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\main.aux

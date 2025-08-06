@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1754424037.63542 "d:/Documents/pronad1/Important Notes/main.tex" "main.pdf" "main" 1754424038.05149 0
-  "C:/Users/prose/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1754423885.96166 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1754487851.92763 "d:/Documents/pronad1/Important Notes/main.tex" "main.pdf" "main" 1754487852.34311 0
+  "C:/Users/prose/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1754487647.4203 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/prose/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1754423895.23598 13254312 7e3b6d092e95acfd01650f067c8a6e04 ""
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -30,9 +30,10 @@
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1749467999 20144 b966087dda3b194755eb460d32e2ef75 ""
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1749467999 5048 0270515b828149155424600fd2d58ac5 ""
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1749467999 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1751005717 30351 a2b09edc6c93a742566b222c33d0278e ""
-  "d:/Documents/pronad1/Important Notes/main.tex" 1754424037.09531 381 562106972d565a5118d1d7df87440b08 ""
-  "main.aux" 1754424037.95129 232 4934dbbcc2642c5d6f5e48359f0aeb4d "pdflatex"
+  "d:/Documents/pronad1/Important Notes/main.tex" 1754487851.44626 699 13786e9ba1b1972434a476204a42ed94 ""
+  "main.aux" 1754487852.2477 232 4934dbbcc2642c5d6f5e48359f0aeb4d "pdflatex"
   (generated)
   "main.aux"
   "main.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.6)  6 AUG 2025 02:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.6)  6 AUG 2025 19:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -91,26 +91,43 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2949.
 LaTeX Info: Redefining \] on input line 2950.
+) (C:\Users\prose\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip54
+\f@nch@offset@elh=\skip55
+\f@nch@offset@erh=\skip56
+\f@nch@offset@olh=\skip57
+\f@nch@offset@orh=\skip58
+\f@nch@offset@elf=\skip59
+\f@nch@offset@erf=\skip60
+\f@nch@offset@olf=\skip61
+\f@nch@offset@orf=\skip62
+\f@nch@height=\skip63
+\f@nch@footalignment=\skip64
+\f@nch@widthL=\skip65
+\f@nch@widthC=\skip66
+\f@nch@widthR=\skip67
+\@temptokenb=\toks24
 ) (C:\Users\prose\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count295
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 
 [1
@@ -122,15 +139,15 @@ L3 programming layer <2025-07-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1201 strings out of 468149
- 18512 string characters out of 5431083
+ 1532 strings out of 468149
+ 24387 string characters out of 5431083
  429008 words of memory out of 5000000
- 29850 multiletter control sequences out of 15000+600000
+ 30177 multiletter control sequences out of 15000+600000
  631593 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,6n,65p,239b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 56i,6n,65p,279b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on main.pdf (1 page, 72756 bytes).
+Output written on main.pdf (1 page, 71894 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
