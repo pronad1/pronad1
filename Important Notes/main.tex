@@ -1,26 +1,38 @@
 \documentclass{article}
 
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{amsmath}
+\usepackage{xcolor} % Add this package for \textcolor
 \usepackage{fancyhdr} % Add this package
+\usepackage{ulem} % Add this package for better underlining
 
 \title{Documentations}
 \author{Prosenjit Mondol}
 \date{\today}
 
+
 \pagestyle{fancy} % Enable fancy header
-\fancyhead[L]{My First Documentations} % Left side header with documentation name
+\fancyhead[L]{My Personal Documentations} % Left side header with documentation name
 \fancyhead[C]{} % Center header empty
-\fancyhead[R]{} % Right side header empty
+\fancyhead[R]{Prosenjit} % Right side header empty
 \renewcommand{\headrulewidth}{1pt} % Add a horizontal line under the header
+
+
 
 \begin{document}
 
 \maketitle
 
-\section{Introduction}
+\newpage % Start a new page after the title
 
-This is my first document written in \LaTeX{} using VS Code.
+\section{Data Preprocessing}
+\begin{itemize}
+    \item \textbf{\textcolor{blue}{\dotuline{Sampling}}}\\
+        Sampling techniques are used to select a representative subset of data from a large population to reduce the computational complexity and improve the efficiency of the analysis.
+    \item \item \textbf{\textcolor{blue}{\dotuline{Transformation}}}\\
+    Transformation techniques involve manipulating raw data to create a single input, such as scaling, normalization, or encoding categorical data.
+\end{itemize}
 
 \section{Math Example}
 
@@ -29,5 +41,7 @@ Here is an example of an equation:
 \[
 E = mc^2
 \]
+
+
 
 \end{document}
