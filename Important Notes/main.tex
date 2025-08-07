@@ -53,7 +53,10 @@ Categorical data is a type of data that represents qualitative or nominal charac
 \begin{itemize}
     \item \textbf{\textcolor{blue}{\dotuline{One-Hot Encoding}}}\\
     One-Hot Encoding creates a new binary column for each category.
-    
+    \begin{lstlisting}[language=Python]
+X = pd.get_dummies(X)
+print(X)
+    \end{lstlisting}
     \item \textbf{\textcolor{blue}{\dotuline{Label Encoding}}}\\
     Label Encoding assigns a numerical value to each category.
     \begin{center}
