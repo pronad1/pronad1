@@ -6,6 +6,9 @@
 \usepackage{xcolor} % Add this package for \textcolor
 \usepackage{fancyhdr} % Add this package
 \usepackage{ulem} % Add this package for better underlining
+\usepackage{listings} % Add this package for code listings
+\lstset{breaklines=true} % Enable line breaking in listings
+\usepackage{graphicx} % Add this package for including images
 
 \title{Documentations}
 \author{Prosenjit Mondol}
@@ -43,14 +46,22 @@
 
 \end{itemize}
 
-\section{Math Example}
+\section{Handle Categorical Data}
 
-Here is an example of an equation:
-
-\[
-E = mc^2
-\]
-
+Categorical data is a type of data that represents qualitative or nominal characteristics, such as gender, occupation, Categorical data cannot be measured or compared using mathematical operations like addition or subtraction.
+\subsection{Different Encoding Methods for Categorical Data}
+\begin{itemize}
+    \item \textbf{\textcolor{blue}{\dotuline{One-Hot Encoding}}}\\
+    One-Hot Encoding creates a new binary column for each category.
+    
+    \item \textbf{\textcolor{blue}{\dotuline{Label Encoding}}}\\
+    Label Encoding assigns a numerical value to each category.
+    \begin{center}
+        \includegraphics[width=0.5\textwidth]{label encoding} % Replace 'example-image' with your image filename (without extension)
+    \end{center}
+    \item \textbf{\textcolor{blue}{\dotuline{Binary Encoding}}}\\
+    Binary Encoding creates new columns representing each category.
+\end{itemize}
 
 
 \end{document}
