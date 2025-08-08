@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.6)  7 AUG 2025 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.6)  8 AUG 2025 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -182,7 +182,29 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 ) (C:\Users\prose\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count304
-) (main.aux)
+) (main.aux
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+
+LaTeX Warning: Label `lst:logreg' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -233,26 +255,36 @@ Package pdftex.def Info: label encoding.png  used on input line 63.
 (pdftex.def)             Requested size: 172.5pt x 62.81421pt.
 
 
-[2 <./label encoding.png>]
+[2]
 
-[3] (main.aux)
+[3 <./label encoding.png>]
+
+[4]
+
+[5]
+
+[6] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-19>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 4994 strings out of 468149
- 71778 string characters out of 5431083
- 677311 words of memory out of 5000000
- 33567 multiletter control sequences out of 15000+600000
+ 5061 strings out of 468149
+ 72687 string characters out of 5431083
+ 818913 words of memory out of 5000000
+ 33634 multiletter control sequences out of 15000+600000
  636066 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,295b,1270s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,65p,375b,1973s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on main.pdf (3 pages, 77352 bytes).
+Output written on main.pdf (6 pages, 107699 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
+ 265 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
