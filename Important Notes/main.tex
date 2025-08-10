@@ -9,9 +9,22 @@
 \usepackage{listings} % Add this package for code listings
 \lstset{breaklines=true} % Enable line breaking in listings
 \usepackage{graphicx} % Add this package for including images
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    filecolor=blue,
+    urlcolor=blue,
+    pdfborder={0 0 0}
+}
 
-\title{Documentations}
-\author{Prosenjit Mondol}
+\title{\LARGE\bfseries Comprehensive Data Science Documentation}
+\author{
+    \textbf{Prosenjit Mondol} \\
+    \normalsize Data Scientist \\
+    \normalsize \href{mailto:prosenjit1156@email.com}{prosenjit1156@email.com}
+}
 \date{\today}
 
 
@@ -27,7 +40,9 @@
 
 \maketitle
 
-\newpage % Start a new page after the title
+\tableofcontents % <-- Add this line for list view
+
+\newpage % Start a new page after the table of contents
 
 \section{Data Preprocessing}
 \begin{itemize}
@@ -189,7 +204,15 @@ print('Model accuracy score: {0:0.4f}'.format(accuracy_score(y_test, y_pred_test
 \end{center}
 
 \subsection{SOTA Model}
-
+\noindent
+\begin{center}
+    \fcolorbox{blue}{blue!10}{
+        \parbox{0.95\linewidth}{
+            \textbf{Definition:} \\
+            In deep learning, SOTA model means State-of-the-Art model — basically, the best-performing architecture or method for a given task at a given time, according to benchmarks or competitions.
+        }
+    }
+\end{center}
 
 
 
