@@ -7,10 +7,21 @@
 \usepackage{xcolor} % Add this package for \textcolor
 \usepackage{fancyhdr} % Add this package
 \usepackage{ulem} % Add this package for better underlining
-\usepackage{listings} % Add this package for code listings
-\lstset{breaklines=true} % Enable line breaking in listings
 \usepackage{graphicx} % Add this package for including images
 \usepackage{hyperref}
+\usepackage{listingsutf8}  % instead of just listings
+\usepackage{listingsutf8} % UTF-8 capable listings
+\lstset{
+    breaklines=true,               % Enable line breaking
+    inputencoding=utf8,            % Set UTF-8 input encoding
+    keywordstyle=\color{blue}\bfseries,
+    commentstyle=\color{green!50!black},
+    stringstyle=\color{orange},
+    backgroundcolor=\color{gray!10},
+    frame=single
+}
+
+
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -34,7 +45,6 @@
 \fancyhead[C]{} % Center header empty
 \fancyhead[R]{Prosenjit} % Right side header empty
 \renewcommand{\headrulewidth}{1pt} % Add a horizontal line under the header
-
 
 
 \begin{document}
@@ -223,9 +233,10 @@ Repeat until convergence:
     \theta_j &= \theta_j - \alpha \cdot \frac{\partial J(\theta_j)}{\partial \theta_j} 
 \end{align*}
 
-section{Handle missing values}
+\section{Handle missing values}
+why it not
 
-
+\newpage
 
 
 
@@ -274,6 +285,7 @@ section{Handle missing values}
 
 
 \section{Models}
+
 \subsection{Ensemble Model}
 \noindent
 \begin{center}
@@ -296,6 +308,16 @@ section{Handle missing values}
     }
 \end{center}
 
+\subsection{Utsu Method}
+\noindent
+\begin{center}
+    \fcolorbox{blue}{blue!10}{
+        \parbox{0.95\linewidth}{
+            \textbf{Definition:} \\
+            Otsu's method is a technique used in computer vision and image processing for automatic image thresholding.
+        }
+    }
+\end{center}
 
 
 
