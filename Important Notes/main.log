@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.10)  10 AUG 2025 22:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.10)  13 AUG 2025 10:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -364,7 +364,7 @@ Package hyperref Info: Link coloring ON on input line 39.
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 71.
-<label encoding.png, id=66, 659.46375pt x 240.14719pt>
+<label encoding.png, id=76, 659.46375pt x 240.14719pt>
 File: label encoding.png Graphic file (type png)
 <use label encoding.png>
 Package pdftex.def Info: label encoding.png  used on input line 78.
@@ -389,20 +389,20 @@ L3 programming layer <2025-07-19>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C6EAD20B8B8F641C2C010D8228B1A724;1917.
+(rerunfilecheck)             Checksum: F6A19AB89576B3A5A2672D643EF61B24;2195.
  ) 
 Here is how much of TeX's memory you used:
- 12181 strings out of 468149
- 182883 string characters out of 5431082
- 929482 words of memory out of 5000000
- 40575 multiletter control sequences out of 15000+600000
+ 12185 strings out of 468149
+ 182933 string characters out of 5431082
+ 929485 words of memory out of 5000000
+ 40577 multiletter control sequences out of 15000+600000
  637297 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,461b,2147s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk>
-Output written on main.pdf (6 pages, 132814 bytes).
+Output written on main.pdf (6 pages, 137213 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 78 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 444 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
