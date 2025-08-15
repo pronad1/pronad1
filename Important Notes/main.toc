@@ -10,6 +10,7 @@
 \contentsline {subsection}{\numberline {6.2}Convergence Algorithm \textit {(Optimize the changes of $\theta _1$ values)}}{7}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Handle missing values}{7}{section.7}%
 \contentsline {section}{\numberline {8}Models}{8}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Ensemble Model}{8}{subsection.8.1}%
-\contentsline {subsection}{\numberline {8.2}SOTA Model}{8}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}Utsu Method}{8}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.1}Visual Geometry Group 16(VGG16)}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Ensemble Model}{8}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}SOTA Model}{8}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Utsu Method}{8}{subsection.8.4}%
