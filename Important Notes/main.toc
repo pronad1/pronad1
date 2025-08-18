@@ -9,9 +9,11 @@
 \contentsline {subsection}{\numberline {6.1}Simple Linear Regression}{6}{subsection.6.1}%
 \contentsline {subsection}{\numberline {6.2}Convergence Algorithm \textit {(Optimize the changes of $\theta _1$ values)}}{7}{subsection.6.2}%
 \contentsline {section}{\numberline {7}Handle missing values}{7}{section.7}%
-\contentsline {section}{\numberline {8}Models}{8}{section.8}%
-\contentsline {subsection}{\numberline {8.1}Visual Geometry Group (VGG)}{8}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}VGG16}{8}{subsubsection.8.1.1}%
-\contentsline {subsection}{\numberline {8.2}Ensemble Model}{8}{subsection.8.2}%
-\contentsline {subsection}{\numberline {8.3}SOTA Model}{8}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Utsu Method}{8}{subsection.8.4}%
+\contentsline {section}{\numberline {8} Convolution Neural Networks (CNN)}{8}{section.8}%
+\contentsline {section}{\numberline {9}Models}{10}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Visual Geometry Group (VGG)}{10}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}VGG16}{10}{subsubsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.2}Ensemble Model}{10}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}SOTA Model}{10}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Utsu Method}{11}{subsection.9.4}%
+\contentsline {section}{\numberline {10}Plotting}{12}{section.10}%
