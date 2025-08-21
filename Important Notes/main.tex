@@ -1,6 +1,9 @@
 \documentclass{article}
 \hbadness=10000
 
+% ---- Font package (research paper style) ----
+\usepackage{newtxtext,newtxmath} % Times-like professional font
+
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{amsmath}
@@ -21,7 +24,6 @@
     frame=single
 }
 
-
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -34,18 +36,16 @@
 \title{\LARGE\bfseries Comprehensive Data Science Documentation}
 \author{
     \textbf{Prosenjit Mondol} \\
-    \normalsize Data Scientist \\
+    \normalsize Data Scientist \\ 
     \normalsize \href{mailto:prosenjit1156@email.com}{prosenjit1156@email.com}
 }
 \date{\today}
-
 
 \pagestyle{fancy} % Enable fancy header
 \fancyhead[L]{My Personal Documentations} % Left side header with documentation name
 \fancyhead[C]{} % Center header empty
 \fancyhead[R]{Prosenjit} % Right side header empty
 \renewcommand{\headrulewidth}{1pt} % Add a horizontal line under the header
-
 
 \begin{document}
 
@@ -388,6 +388,16 @@ plt.show()
         \parbox{0.95\linewidth}{
             \textbf{Definition:} \\
             ResNet (Residual Networks) is a more advanced architecture designed to address the vanishing gradient problem in deep networks. ResNet50 consists of 50 layers, incorporating residual connections, which allow gradients to bypass certain layers during backpropagation, effectively preventing the gradient from vanishing or exploding as the network depth increases.
+        }
+    }
+\end{center}
+\subsubsection{U-Net Model} 
+\noindent
+\begin{center}  
+    \fcolorbox{blue}{blue!10}{
+        \parbox{0.95\linewidth}{
+            \textbf{Definition:} \\
+            U-Net is a convolutional neural network (CNN) architecture, initially designed for biomedical image segmentation, but has since been adopted for a wide range of tasks, including general image segmentation and even language modeling.
         }
     }
 \end{center}
