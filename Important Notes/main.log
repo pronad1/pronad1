@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.10)  21 AUG 2025 11:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.10)  5 SEP 2025 00:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -699,11 +699,11 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
  (C:\Users\prose\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 82.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 83.
 <label encoding.png, id=125, 659.46375pt x 240.14719pt>
 File: label encoding.png Graphic file (type png)
 <use label encoding.png>
-Package pdftex.def Info: label encoding.png  used on input line 89.
+Package pdftex.def Info: label encoding.png  used on input line 90.
 (pdftex.def)             Requested size: 172.5pt x 62.81421pt.
 
 
@@ -714,43 +714,43 @@ Package pdftex.def Info: label encoding.png  used on input line 89.
 [4]
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 164.
+            Default family used instead on input line 165.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 167.
+            Default family used instead on input line 168.
 
 
 [5]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.3pt on input line 218.
+(Font)              scaled to size 7.3pt on input line 219.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 5.5pt on input line 218.
+(Font)              scaled to size 5.5pt on input line 219.
 <best_fit.png, id=191, 575.14874pt x 314.17375pt>
 File: best_fit.png Graphic file (type png)
 <use best_fit.png>
-Package pdftex.def Info: best_fit.png  used on input line 224.
+Package pdftex.def Info: best_fit.png  used on input line 225.
 (pdftex.def)             Requested size: 241.49895pt x 131.9185pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
-(Font)              scaled to size 12.0pt on input line 230.
+(Font)              scaled to size 12.0pt on input line 231.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 230.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\theta' on input line 230.
+(hyperref)                removing `math shift' on input line 231.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 230.
+(hyperref)                removing `\theta' on input line 231.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 230.
+(hyperref)                removing `subscript' on input line 231.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 231.
 
 
 
@@ -759,13 +759,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [7 <./best_fit.png (PNG copy)>]
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 256.
-LaTeX Info: Symbol \textminus not provided by
-            font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 256.
-LaTeX Info: Symbol \textminus not provided by
-            font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 256.
+            Default family used instead on input line 257.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
             Default family used instead on input line 257.
@@ -780,7 +774,13 @@ LaTeX Info: Symbol \textminus not provided by
             Default family used instead on input line 258.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 258.
+            Default family used instead on input line 259.
+LaTeX Info: Symbol \textminus not provided by
+            font family ntxtlf in TS1 encoding.
+            Default family used instead on input line 259.
+LaTeX Info: Symbol \textminus not provided by
+            font family ntxtlf in TS1 encoding.
+            Default family used instead on input line 259.
 
 
 [8]
