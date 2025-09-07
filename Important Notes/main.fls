@@ -261,9 +261,9 @@ INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntx-Italic-tlf-t1.tfm
-OUTPUT main.toc
 INPUT C:\Users\prose\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\newtx\ntx-ec-tlf.enc
+OUTPUT main.toc
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd
 INPUT C:\Users\prose\AppData\Local\Programs\MiKTeX\tex\latex\newtx\ts1ntxtlf.fd

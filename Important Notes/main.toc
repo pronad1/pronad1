@@ -1,21 +1,38 @@
-\contentsline {section}{\numberline {1}Data Preprocessing}{2}{section.1}%
-\contentsline {section}{\numberline {2}Handle Categorical Data}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Different Encoding Methods for Categorical Data}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Looking at null or missing values}{3}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Checking imblanced in target variable}{3}{section.3}%
-\contentsline {section}{\numberline {4}Outliner Detection}{4}{section.4}%
-\contentsline {section}{\numberline {5}Let’s see how it fared in prediction using Logistic Regression}{6}{section.5}%
-\contentsline {section}{\numberline {6}Algorithms}{6}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Simple Linear Regression}{6}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Convergence Algorithm \textit {(Optimize the changes of theta\_1 values)}}{7}{subsection.6.2}%
-\contentsline {section}{\numberline {7}Handle missing values}{7}{section.7}%
-\contentsline {section}{\numberline {8}Models}{8}{section.8}%
-\contentsline {subsection}{\numberline {8.1} Convolutional Neural Networks (CNNs)}{8}{subsection.8.1}%
-\contentsline {subsubsection}{\numberline {8.1.1}ResNet50}{10}{subsubsection.8.1.1}%
-\contentsline {subsubsection}{\numberline {8.1.2}U-Net Model}{10}{subsubsection.8.1.2}%
+\contentsline {section}{\numberline {1}Data Preprocessing}{3}{section.1}%
+\contentsline {section}{\numberline {2}Handle Categorical Data}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Different Encoding Methods for Categorical Data}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Looking at null or missing values}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Checking imblanced in target variable}{4}{section.3}%
+\contentsline {section}{\numberline {4}Outliner Detection}{5}{section.4}%
+\contentsline {section}{\numberline {5}Let’s see how it fared in prediction using Logistic Regression}{7}{section.5}%
+\contentsline {section}{\numberline {6}Algorithms}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Simple Linear Regression}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Convergence Algorithm \textit {(Optimize the changes of theta\_1 values)}}{8}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Handle missing values}{8}{section.7}%
+\contentsline {section}{\numberline {8}Models}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Convolutional Neural Networks (CNNs)}{9}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Basic CNN}{9}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}ResNet50}{9}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}ResNet-101}{9}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}U-Net Model}{9}{subsubsection.8.1.4}%
+\contentsline {subsubsection}{\numberline {8.1.5}Faster R-CNN}{10}{subsubsection.8.1.5}%
+\contentsline {subsubsection}{\numberline {8.1.6}CNN + LSTM}{10}{subsubsection.8.1.6}%
+\contentsline {subsubsection}{\numberline {8.1.7}GAN (Generative Adversarial Network)}{10}{subsubsection.8.1.7}%
+\contentsline {subsubsection}{\numberline {8.1.8}Transformer-based CNNs}{10}{subsubsection.8.1.8}%
 \contentsline {subsection}{\numberline {8.2}Visual Geometry Group (VGG)}{10}{subsection.8.2}%
 \contentsline {subsubsection}{\numberline {8.2.1}VGG16}{10}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}VGG19}{11}{subsubsection.8.2.2}%
 \contentsline {subsection}{\numberline {8.3}Ensemble Model}{11}{subsection.8.3}%
 \contentsline {subsection}{\numberline {8.4}SOTA Model}{11}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Utsu Method}{11}{subsection.8.5}%
-\contentsline {section}{\numberline {9}Plotting}{12}{section.9}%
+\contentsline {subsection}{\numberline {8.5}Otsu Method}{11}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6} Convolutional Neural Networks (CNNs)}{12}{subsection.8.6}%
+\contentsline {subsubsection}{\numberline {8.6.1}ResNet50}{12}{subsubsection.8.6.1}%
+\contentsline {subsubsection}{\numberline {8.6.2}ResNet-101}{12}{subsubsection.8.6.2}%
+\contentsline {subsubsection}{\numberline {8.6.3}U-Net Model}{12}{subsubsection.8.6.3}%
+\contentsline {subsection}{\numberline {8.7}Visual Geometry Group (VGG)}{13}{subsection.8.7}%
+\contentsline {subsubsection}{\numberline {8.7.1}VGG16}{13}{subsubsection.8.7.1}%
+\contentsline {subsubsection}{\numberline {8.7.2}VGG19}{13}{subsubsection.8.7.2}%
+\contentsline {subsection}{\numberline {8.8}Ensemble Model}{13}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}SOTA Model}{13}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}Utsu Method}{13}{subsection.8.10}%
+\contentsline {section}{\numberline {9}Plotting}{14}{section.9}%
