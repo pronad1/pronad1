@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757010426.8196 "d:/Documents/pronad1/Important Notes/main.tex" "main.pdf" "main" 1757010428.25329 0
+["pdflatex"] 1757253277.48878 "d:/Documents/pronad1/Important Notes/main.tex" "main.pdf" "main" 1757253279.11851 0
   "C:/Users/prose/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1755754178.34991 163260 f7138aa97b0a1dcae55100dabb7d9e7d ""
   "C:/Users/prose/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1754541709.63614 11548 d3788d2ec42cdb84f167fcf5f7fc25e2 ""
   "C:/Users/prose/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1754839726.53485 13254313 9f9e0f5aaf90bb865cf3c2c8f83554c9 ""
@@ -134,11 +134,11 @@
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 9829c50ab36366d4da41fdc87e7d0699 ""
   "C:/Users/prose/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "best_fit.png" 1755060940.6097 77517 19f8c2184564099938858de6fda389d2 ""
-  "d:/Documents/pronad1/Important Notes/main.tex" 1757010425.87493 17953 2a401caccbf9d40b0b06dcca8b86bf1c ""
+  "d:/Documents/pronad1/Important Notes/main.tex" 1757253274.93406 17544 ab4e70318ac1c95492bdcdb3cd4cdb78 ""
   "label encoding.png" 1754574964.53259 29306 019ed49e47346b7db2f2145df4938a3d ""
-  "main.aux" 1757010427.99274 5115 c83c1849f6a95cc2505a0e9be56e6db5 "pdflatex"
-  "main.out" 1757010428.00473 3789 ed9ff16404e9c27c7182bedd9bc33855 "pdflatex"
-  "main.toc" 1757010428.01573 1908 50b7fcf6909d7f015db4697552694d7e "pdflatex"
+  "main.aux" 1757253278.83741 5005 0704d3c643eba05aea90f3174af56510 "pdflatex"
+  "main.out" 1757253278.84035 3744 9d90f0339ec0b1b1972144718c510dbe "pdflatex"
+  "main.toc" 1757253278.84367 1839 a22a6b75eae1cc5f3f35f6b9ce9edcdb "pdflatex"
   (generated)
   "main.aux"
   "main.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.10)  5 SEP 2025 00:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.8.10)  7 SEP 2025 19:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -689,7 +689,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 
 [1
 
-{C:/Users/prose/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
+{C:/Users/prose/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 60.
  (C:\Users\prose\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
@@ -700,7 +700,7 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 83.
-<label encoding.png, id=125, 659.46375pt x 240.14719pt>
+<label encoding.png, id=118, 659.46375pt x 240.14719pt>
 File: label encoding.png Graphic file (type png)
 <use label encoding.png>
 Package pdftex.def Info: label encoding.png  used on input line 90.
@@ -725,7 +725,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 7.3pt on input line 219.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 5.5pt on input line 219.
-<best_fit.png, id=191, 575.14874pt x 314.17375pt>
+<best_fit.png, id=184, 575.14874pt x 314.17375pt>
 File: best_fit.png Graphic file (type png)
 <use best_fit.png>
 Package pdftex.def Info: best_fit.png  used on input line 225.
@@ -737,50 +737,34 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/it' will be
 (Font)              scaled to size 12.0pt on input line 231.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 231.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\theta' on input line 231.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 231.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 231.
-
-
-
-[6]
+[6{C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
 
 [7 <./best_fit.png (PNG copy)>]
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 257.
+            Default family used instead on input line 267.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 257.
+            Default family used instead on input line 267.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 257.
+            Default family used instead on input line 267.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 258.
+            Default family used instead on input line 268.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 258.
+            Default family used instead on input line 268.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 259.
+            Default family used instead on input line 269.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 259.
+            Default family used instead on input line 269.
 LaTeX Info: Symbol \textminus not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 259.
+            Default family used instead on input line 269.
 
 
 [8]
@@ -801,20 +785,20 @@ L3 programming layer <2020/03/25>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: ED9FF16404E9C27C7182BEDD9BC33855;3789.
+(rerunfilecheck)             Checksum: 9D90F0339EC0B1B1972144718C510DBE;3744.
  ) 
 Here is how much of TeX's memory you used:
- 16271 strings out of 468149
- 240315 string characters out of 5431082
- 1015813 words of memory out of 5000000
- 44443 multiletter control sequences out of 15000+600000
- 693039 words of font info for 119 fonts, out of 8000000 for 9000
+ 16265 strings out of 468149
+ 240254 string characters out of 5431082
+ 1001812 words of memory out of 5000000
+ 44442 multiletter control sequences out of 15000+600000
+ 691127 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,79p,493b,2216s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\prose\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmbi.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/prose/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (12 pages, 349659 bytes).
+Output written on main.pdf (12 pages, 349235 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 409 PDF objects out of 1000 (max. 8388607)
+ 182 named destinations out of 1000 (max. 500000)
+ 179 words of extra memory for PDF output out of 10000 (max. 10000000)
 

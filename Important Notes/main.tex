@@ -228,7 +228,7 @@ if $x=0$, then $h_0(x) = \theta_0$ (intercept).\\
 \end{figure}
 \vspace{1cm} % adjust cm as needed
 
-\subsection{Convergence Algorithm \textit{(Optimize the changes of $\theta_1$ values)}}
+\subsection{Convergence Algorithm \textit{(Optimize the changes of theta\_1 values)}}
 Repeat until convergence:
 \begin{align*}  
     \theta_j &= \theta_j - \alpha \cdot \frac{\partial J(\theta_j)}{\partial \theta_j} 
@@ -239,8 +239,18 @@ why it not
 
 \newpage
 
-\section{ Convolution Neural Networks (CNN)}
-Convolutional Neural Network (CNN) is an advanced version of artificial neural networks (ANNs), primarily designed to extract features from grid-like matrix datasets. This is particularly useful for visual datasets such as images or videos, where data patterns play a crucial role. CNNs are widely used in computer vision applications due to their effectiveness in processing visual data.
+
+\section{Models}
+\subsection{ Convolutional Neural Networks (CNNs)}
+\noindent
+\begin{center}  
+    \fcolorbox{blue}{blue!10}{
+        \parbox{0.95\linewidth}{
+            \textbf{Definition:} \\
+            The study employs advanced Convolutional Neural Networks (CNNs) to address the challenge of accurately detecting and localizing spinal cord injuries (SCI) in MRI images. Two key CNN architectures were utilized: VGG-16 and ResNet50. These models were integrated into the Faster R-CNN framework, a robust object detection system that combines region proposal networks (RPN) with CNNs for feature extraction and object classification.
+        }
+    }
+\end{center}
 \begin{center}
 \begin{lstlisting}[language=Python, caption={Applying CNN to an Image}, label={lst:logreg}, backgroundcolor=\color{gray!10}, frame=single, keywordstyle=\color{blue}\bfseries, commentstyle=\color{green!50!black}, stringstyle=\color{orange}]
 # import the necessary libraries
@@ -370,18 +380,8 @@ plt.show()
 \vspace{1cm} % adjust cm as needed
 
 
-\section{Models}
 
-\subsection{CNN Model}
-\noindent
-\begin{center}  
-    \fcolorbox{blue}{blue!10}{
-        \parbox{0.95\linewidth}{
-            \textbf{Definition:} \\
-            The study employs advanced Convolutional Neural Networks (CNNs) to address the challenge of accurately detecting and localizing spinal cord injuries (SCI) in MRI images. Two key CNN architectures were utilized: VGG-16 and ResNet50. These models were integrated into the Faster R-CNN framework, a robust object detection system that combines region proposal networks (RPN) with CNNs for feature extraction and object classification.
-        }
-    }
-\end{center}   
+
 \subsubsection{ResNet50} 
 \noindent
 \begin{center}  
