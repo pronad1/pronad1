@@ -45,17 +45,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=github_dark" alt="pronad1's GitHub Profile Details" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&theme=dark" alt="pronad1's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronad1&theme=dark" alt="pronad1's GitHub Streak" />
-</p>
 <h1 style="margin-top: 0px" align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default)
