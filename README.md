@@ -45,7 +45,15 @@
 </p>
 
 ---
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=github_dark" alt="pronad1's GitHub Profile Details" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activity-graph?username=pronad1&theme=github_dark&utc_offset=6.00" alt="pronad1's GitHub Activity Graph" />
+  
+  &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact&theme=dark" alt="pronad1's Top Languages" />
+</p>
 <h1 style="margin-top: 0px" align="center">
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default)
