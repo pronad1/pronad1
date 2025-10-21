@@ -50,11 +50,11 @@
 </p>
 
 <p align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact) 
-  
-  <img style="width: 57%; height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=pronad1&theme=dark" alt="GitHub Streak" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&theme=dark" alt="pronad1's Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronad1&theme=dark" alt="pronad1's GitHub Streak" />
 </p>
 <h1 style="margin-top: 0px" align="center">
   
