@@ -50,9 +50,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/activity-graph?username=pronad1&theme=github_dark&utc_offset=6.00" alt="pronad1's GitHub Activity Graph" />
   
-  &nbsp;&nbsp; 
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact) 
   
   <img style="width: 57%; height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=pronad1&theme=dark" alt="GitHub Streak" >
 
