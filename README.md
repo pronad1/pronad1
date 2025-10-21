@@ -47,7 +47,7 @@
 ---
 
 <h1 style="margin-top: 0px" align="center">
-  
+    <img style="width: 57%; height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-1920&theme=dark" alt="GitHub Streak" >
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default)
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pronad1&theme=default&utcOffset=6)
