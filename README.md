@@ -46,14 +46,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;&nbsp; <a href="https://github.com/pronad1/">
-    <img src="https://komarev.com/ghpvc/?username=pronad1" alt="visitors" />
-  </a>
-</p>
-
 <h1 style="margin-top: 0px" align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default" alt="Profile Details" />
-  <br> <img style="width: 57%; height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=pronad1&theme=dark" alt="GitHub Streak" />
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=default)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pronad1&theme=default&utcOffset=6)
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact)
+
+
+  <a href="https://github.com/pronad1/"><img src="https://komarev.com/ghpvc/?username=pronad1" alt="visitors" /></a>
+
 </h1>
