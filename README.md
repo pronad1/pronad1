@@ -11,7 +11,6 @@
   </tr>
 </table>
 
-
 ## Connect with me:
 <table align="center">
       <tbody>
