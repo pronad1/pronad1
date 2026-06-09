@@ -48,14 +48,12 @@
 
 <h1 style="margin-top: 0px" align="center">
 
-  
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=dark" alt="Profile Details" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  
-  <br><br>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=dark)
+
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pronad1&theme=dark&utcOffset=6)
+    
+    ![](https://github-readme-stats.vercel.app/api/top-langs?username=pronad1&show_icons=true&locale=en&layout=compact&theme=dark)
+
 
   <a href="https://github.com/pronad1/"><img src="https://komarev.com/ghpvc/?username=pronad1" alt="visitors" /></a>
 
