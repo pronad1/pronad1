@@ -48,11 +48,6 @@
 
 
 <h1 style="margin-top: 0px" align="center">
-
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pronad1&theme=dark)
-
-
-
   <a href="https://github.com/pronad1/"><img src="https://komarev.com/ghpvc/?username=pronad1" alt="visitors" /></a>
 
 </h1>
